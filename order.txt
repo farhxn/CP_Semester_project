@@ -1,0 +1,12 @@
+3	Product_2	1000	1	2
+2	Product_2	1000	2	2
+4	Product_3	800	1	3
+3	Product_2	1000	1	2
+2	Product_2	1000	2	2
+4	Product_3	800	1	3
+3	Product_2	1000	1	2
+2	Product_2	1000	2	2
+2	Product_3	800	1	3
+3	Product_2	1000	1	2
+2	Product_2	1000	2	2
+4	Product_3	800	1	3
